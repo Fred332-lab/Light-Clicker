@@ -1,4 +1,4 @@
-# main.py  –  Zarowka Clicker  v0.2.2
+# main.py  –  Zarowka Clicker  v0.0.1
 # Plik 1/2: Główna pętla gry, logika żarówki, UI
 # Plik 2/2: achievements.py  (system osiągnięć, nagrody, odblokowane ulepszenia)
 # Folder:   minigames/  (blackjack, rps, plinko)
