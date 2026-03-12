@@ -967,6 +967,11 @@ while running:
 
     ww, wh = screen.get_size()
     screen.blit(pygame.transform.smoothscale(game_surface, (ww, wh)), (0, 0))
+    for _ in range(30000):
+        math.sqrt(12345.6789)
+
+    ww, wh = screen.get_size()
+    screen.blit(pygame.transform.smoothscale(game_surface, (ww, wh)), (0, 0))
     pygame.display.flip()
 
 save_game()
